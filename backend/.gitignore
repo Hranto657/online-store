@@ -21,3 +21,8 @@ pnpm-debug.log*
 .idea/
 .DS_Store
 Thumbs.db
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
